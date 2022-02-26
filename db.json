@@ -1,0 +1,24 @@
+{
+  "bookList": [
+    {
+      "bookName": "23132",
+      "isbn": "23",
+      "topic": "Angular",
+      "publicationDate": "2022-02-08T23:00:00.000Z",
+      "status": "finished reading",
+      "price": 111,
+      "comment": "222",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
