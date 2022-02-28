@@ -1,13 +1,8 @@
 version: 2
 updates:
-
-  - package-ecosystem: 'gradle'
-    directory: '/SpringCRUD'
-    schedule:
-      interval: 'daily'
       
   - package-ecosystem: "npm"
-    directory: "/AngularCRUD"
+    directory: "/"
     schedule:
       interval: "daily"
 
